@@ -18,5 +18,6 @@ Available plugins:
 - Inkscape
 - Krita
 - Nuke
+- Photoshop
 
 See [clustta.com/plugin](https://clustta.com/plugin) for the current downloads and [docs.clustta.com/features/plugins](https://docs.clustta.com/features/plugins) for installation instructions.
